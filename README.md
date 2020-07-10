@@ -1,0 +1,2 @@
+# ChineseIdEnumerate
+python编写的中国公民18位身份证枚举工具
